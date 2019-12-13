@@ -1,0 +1,4 @@
+Click==7.0
+cryptography==2.7
+kivy==1.11.1
+peewee==3.11.2
