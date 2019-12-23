@@ -57,7 +57,7 @@ HELP_TXT = f"""
 General Help
 =============
 Detailed guides and instructions can be found here:
-https://github.com/ProtoInfinite/crc_encrypt
+https://github.com/CraigCiccone/crc_encrypt
 
 Password Strength
 ==================

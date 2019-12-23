@@ -49,7 +49,7 @@ sufficient.
 
 .. code-block:: text
 
-    git clone https://github.com/ProtoInfinite/crc_encrypt.git
+    git clone https://github.com/CraigCiccone/crc_encrypt.git
     pip install -r crc_encrypt\requirements\requirements.txt
     pip install -r crc_encrypt\requirements\requirements_win.txt
     pip install -r crc_encrypt\requirements\requirements_build.txt
@@ -84,7 +84,7 @@ Finally build the executable:
 
 .. code-block:: text
 
-    git clone https://github.com/ProtoInfinite/crc_encrypt.git
+    git clone https://github.com/CraigCiccone/crc_encrypt.git
     pip install -r crc_encrypt/requirements/requirements.txt
     pip install -r crc_encrypt/requirements/requirements_build.txt
     python -m PyInstaller --name crc_encrypt crc_encrypt/main.py
@@ -117,7 +117,7 @@ for Android.
 
 .. code-block:: text
 
-    git clone https://github.com/ProtoInfinite/crc_encrypt.git
+    git clone https://github.com/CraigCiccone/crc_encrypt.git
     pip install -r crc_encrypt/requirements/requirements.txt
     pip install -r crc_encrypt/requirements/requirements_build.txt
     buildozer init
@@ -299,4 +299,4 @@ provided by the CLI itself:
 
 
 .. Links used in this document
-.. _releases: https://github.com/ProtoInfinite/crc_encrypt/releases
+.. _releases: https://github.com/CraigCiccone/crc_encrypt/releases
